@@ -361,6 +361,12 @@
             "Value": "0"
         },
         {
+            "PowerHint": "INTERACTION",
+            "Node": "UfsHibern8Enable",
+            "Duration": 0,
+            "Value": "0"
+        },
+        {
             "PowerHint": "LAUNCH",
             "Node": "SchedBoost",
             "Duration": 3000,
